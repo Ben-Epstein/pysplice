@@ -1,0 +1,7 @@
+setup.py
+pysplicec/__init__.py
+pysplicec.egg-info/PKG-INFO
+pysplicec.egg-info/SOURCES.txt
+pysplicec.egg-info/dependency_links.txt
+pysplicec.egg-info/not-zip-safe
+pysplicec.egg-info/top_level.txt
